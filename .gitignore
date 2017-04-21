@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# local settings
+.wpu
+.bak
+.pyc
